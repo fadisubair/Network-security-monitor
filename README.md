@@ -38,7 +38,7 @@ python3 network_monitor.py
 
 ---
 
-## 📁 Project Structure
+
 ## 📁 Project Structure
 
 | File / Folder          | Purpose                              |
