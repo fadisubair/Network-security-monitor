@@ -12,7 +12,7 @@ sudo apt install nmap
 # 2. Install the python-nmap module
 pip3 install python-nmap
 
-# 2. Run the network monitor
+# 3. Run the network monitor
 python3 network_monitor.py
 
 
